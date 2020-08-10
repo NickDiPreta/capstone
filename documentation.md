@@ -1,6 +1,6 @@
 ## Project Links
-- Front End:
-- Back End:
+- Front End: https://github.com/NickDiPreta/weflix_client
+- Back End: https://github.com/NickDiPreta/weflix_api
 - Live Link:
 
 ## **Project Proposal:**
