@@ -13,29 +13,30 @@
 - Rotten Tomatoes (submitted proposal to RT waiting to see if I'm approved)
 
 
-## Wireframes
-
-
-## Architecture
-### **Components**
-### **Routes**
-
-## MVP/PostMVP
+## Site Structure
+note: static nav with link to homepage always present
+![site map](https://i.imgur.com/mflca0r.png)
+## Models
+![models](https://i.imgur.com/UTo4485.png)
+## MVP
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Chatroom Skeleton | H | 6hrs| - | 4hrs |
-| API message handling | H | 15hrs| - | 10hrs |
-| Guest Log In Through API | H | 5hrs| - | 3hrs |
-| Associating messages with users and updating in chat | H | 5hrs| - | 3hrs |
-| UI design | H | 10hrs| - | 8hrs |
-| Local Storage | M | 4hrs | - | 3hrs|
-| Direct messaging | L | 4 hrs | - | 3 hrs|
-| Multiple Channels | H | 5 hrs | - | 3hrs |
-| User can create DM | L | 2hrs | - | 4hrs |
-| Total | H | 40hrs| - | 41hrs |
- | 	Time Invetsted	Actual Time
+| DB/API Creation | H | - | - | - |
+| User Login/Auth/Registration  | H | -| - | - |
+| Single User Recommendation Form | H | - | - |
+| TMDB Recommendation Request + Create WeFlixAlgorithm | H | - | - | - |
+| Create Group Form | H | - | - | - |
+| Group Recommendation Results Portal w/ Unique URL | H | - | - | -|
+| User Results Portal | H |  - | -|
 
+
+## PostMVP
+| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| --- | :---: |  :---: | :---: | :---: |
+| Save User Favorite Movies / Preferences | M | - | - | - |
+| Give Group Streaming Platform Availability | M | - | - | - |
+| Show Top Movies on Homepage | M | - | - | - |
 
 
 ## Additional Libraries 
